@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello, I'm Shivam 👋
+
+🎓 First-year CSE Student at Asansol Engineering College
+💻 Aspiring Python Developer  
+🌱 Currently Learning Data Structures and Algorithms  
+🔭 Working on Python-based Mini Projects  
+🤝 Open to Collaborating on Open Source Projects  
+📫 How to Reach Me: [LinkedIn](https://www.linkedin.com/in/shivam-modi-00b055327/)
+
+## ⚡ Technologies & Tools
+- Python, C
+- Git & GitHub
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivammodi05&show_icons=true)
+
+## 🔗 Links
+- [Portfolio](https://yourwebsite.com)
+- [LinkedIn](https://linkedin.com/in/yourprofile)
