@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivammodi05&show_icons=true)
 
 ## 🔗 Links
-- [Portfolio](https://yourwebsite.com)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Portfolio](https://github.com/shivammodi05)
+- [LinkedIn](https://www.linkedin.com/in/shivam-modi-00b055327/)
